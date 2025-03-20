@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742474499 source:c:\users\bulut\onedrive\masaüstü\dsa\fileorganization\logicandphysicalfiles\main.cpp
+	<iostream>
+	<fstream>
+
