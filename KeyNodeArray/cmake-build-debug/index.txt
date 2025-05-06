@@ -1,0 +1,6 @@
+Key	RRN
+--------------
+BELL 	3
+HARRIS 	2
+HARRISON 	0
+KELLOG 	1
