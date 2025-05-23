@@ -1,0 +1,3 @@
+C:/Users/bulut/Desktop/DSA/FileOrganization/BufferFlush/cmake-build-debug/CMakeFiles/BufferFlush.dir
+C:/Users/bulut/Desktop/DSA/FileOrganization/BufferFlush/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bulut/Desktop/DSA/FileOrganization/BufferFlush/cmake-build-debug/CMakeFiles/rebuild_cache.dir
